@@ -364,6 +364,11 @@ a:active {
 .skill h3 {
   font-size: 18px;
 }
+.skills-list {
+  margin-left: -0.80rem;
+  line-height: 2.5;
+}
+
 .filters {
   text-align: center;
 }
